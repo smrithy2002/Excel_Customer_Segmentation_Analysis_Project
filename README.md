@@ -37,5 +37,31 @@ Data cleaning was performed to handle missing values and ensure consistency in t
 9. Comparing Graduated status
 10. Demographic and behavioral factors
 
+## Visualization and Dashboard Creation:
+### Four Key Performance Indicators (KPIs) were identified and calculated:
+
+`Total Employees`
+
+`Average Age`
+
+
+`Total Graduates`
+
+
+`Marriage Status Distribution`
+
+### Visualizations were created using Excel charts:
+
+`Column chart for the distribution of Professions among customers`
+
+`Pie chart for the percentage of Work_Experience among employees`
+
+`3D clustered column chart for Spending_Score by Gender`
+
+`Histogram for the distribution of Var_1 categories among customers`
+
+`Clustered column chart for the distribution of Graduation status by Work_Experience`
+
+
 
 
