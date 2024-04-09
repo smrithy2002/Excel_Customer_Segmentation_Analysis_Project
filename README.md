@@ -1,1 +1,1 @@
-# Excel_Customer_Segmentation_Analysis_Project
+# Excel Customer Segmentation Analysis Project
