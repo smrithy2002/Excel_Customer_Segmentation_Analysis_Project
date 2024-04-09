@@ -101,7 +101,7 @@ Data cleaning was performed to handle missing values and ensure consistency in t
 
 ## Dashboard
 
-![Uploading Screenshot 2024-04-09 125457.png…]()
+![Screenshot 2024-04-09 125457](https://github.com/smrithy2002/Excel_Customer_Segmentation_Analysis_Project/assets/113251046/acc712d7-cf13-42d3-b432-50c30140e294)
 
 
 ## Conclusion: 
