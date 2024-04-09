@@ -99,6 +99,11 @@ Data cleaning was performed to handle missing values and ensure consistency in t
   
 * Recommendations for business strategies and marketing campaigns can be formulated based on these insights, such as targeting specific age groups or professions with tailored promotions.
 
+## Dashboard
+
+![Uploading Screenshot 2024-04-09 125457.png…]()
+
+
 ## Conclusion: 
 The customer segmentation analysis project provides valuable insights into the characteristics and behaviors of customers, allowing businesses to make data-driven decisions and tailor their strategies to meet customer needs effectively. By leveraging Excel's data analysis and visualization capabilities, meaningful insights were derived, leading to actionable recommendations for business growth and customer engagement.
 
